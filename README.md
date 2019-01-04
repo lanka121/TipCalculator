@@ -4,7 +4,7 @@ https://github.com/lanka121/TipCalculator/blob/master/tip%20calc.gif
 
 This is a tip calculator application for iOS.
 
-Submitted by:Lanka Vidanapathirana
+Submitted by: Lanka Vidanapathirana
 
 Time spent: 8 hours spent in total
 
